@@ -13,17 +13,11 @@
 <img src="https://github.com/user-attachments/assets/669e2382-f089-4a97-9cc3-0f1621edf544" width="200" alt="Screenshot 4">
 </div>
 
+## Demo Video
+This [demo video](https://www.youtube.com/watch?v=0EWWjwJ__vo) shows the app in action. For a deeper explanation, see below.
 
-## App Platform
-iOS
-
-## Tech Stack
-Swift, SwiftUI
-
-## App intro
-Habitual is an iOS app that helps you track and maintain your daily habits with customizable goals and simple progress visualization.
-
-This [short demo video](https://www.youtube.com/watch?v=0EWWjwJ__vo) simply shows the app in action. For an explanation of the app, see below.
+## Intro and Tech Stack
+Habitual is an **iOS** application written in **Swift** that helps you track and maintain your daily habits with customizable goals and progress visualization.
 
 ## Functionality
 Habitual allows users to create and track daily habits, set repetition goals, and monitor their progress throughout the week. It provides visual cues, such as checkboxes and progress bars, to represent the completion status of each habit. The target audience is broad, encompassing anyone striving to improve their daily routines and form positive habits. This could include individuals focusing on health and fitness goals, productivity, or personal development and mindfulness practices. 
