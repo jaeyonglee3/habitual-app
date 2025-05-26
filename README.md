@@ -20,14 +20,36 @@ This [demo video](https://www.youtube.com/watch?v=0EWWjwJ__vo) shows the app in 
 Habitual is an **iOS** application written in **Swift** that helps you track and maintain your daily habits with customizable goals and progress visualization.
 
 ## Functionality
-Habitual allows users to create and track daily habits, set repetition goals, and monitor their progress throughout the week. It provides visual cues, such as checkboxes and progress bars, to represent the completion status of each habit. The target audience is broad, encompassing anyone striving to improve their daily routines and form positive habits. This could include individuals focusing on health and fitness goals, productivity, or personal development and mindfulness practices. 
 
-It solves the problem of inconsistency and lack of motivation by providing a clear, organized way to monitor and maintain habit formation. By tracking progress, Habitual taps into the psychology of reinforcement, motivating users to continue their positive behaviors. Research has shown that visual cues and progress tracking can significantly improve habit formation.
+**Habitual** helps users create and track daily habits, set repetition goals, and monitor weekly progress — all through a clean, visual interface.
 
-## Value and Usefulness
-Habitual provides value by offering a structured and visual way to track daily goals. This is beneficial because it helps users stay organized and motivated, which can be challenging when trying to establish new habits. The app's clear presentation of progress and daily goals serves as a constant reminder and encourages users to stay on track.
+### What it does:
+- ✅ Create daily habits with customizable repetition goals  
+- 📅 Track habit progress across the week using checkboxes and progress bars  
+- 🎯 Visual cues keep users engaged and aware of their performance
 
-This can solve the real-world problem of inconsistency in maintaining new habits. Many people start with good intentions but lose momentum due to a lack of organization or a way to monitor their efforts. Habitual addresses this by providing a dedicated space to log and visualize progress, making the process of forming new habits more manageable.
+### Who it's for:
+- Anyone aiming to build better routines — from health & fitness to productivity or mindfulness  
+- Ideal for users who want structure and motivation while forming new habits  
+
+### Why it matters:
+- Tackles **inconsistency** and **lack of motivation** head-on  
+- Uses reinforcement psychology to keep users on track  
+- Studies show **visual tracking improves habit formation**, and Habitual builds on that research
+
+## Value & Usefulness
+
+**Habitual adds value** by making habit tracking **structured, visual, and motivating**.
+
+### Benefits:
+- 🧭 Keeps users **organized** while building new routines  
+- 📈 Visual progress helps users stay **motivated** day to day  
+- 🔁 Encourages habit continuity by reinforcing small wins
+
+### Real-world problem it solves:
+- Many people start strong with new habits but **lose momentum** without support  
+- Habitual provides a **dedicated, encouraging space** to log progress and visualize success  
+- Makes habit-building **simpler and more manageable**, turning good intentions into lasting routines
 
 ## Setup Guide
 1.  Clone the repository.
